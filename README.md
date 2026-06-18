@@ -2,7 +2,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Política de Privacidad - QA Evidence Reporter</title>
 </head>
 <body>
   <h1>Política de Privacidad</h1>

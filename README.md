@@ -3,12 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Política de Privacidad - QA Evidence Reporter</title>
-  <style>
-    body {font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #333;}
-    h1 {font-size: 1.8em; margin-bottom: 0.5em;}
-    p, li {margin-bottom: 0.8em;}
-    ul {margin-left: 1.5em;}
-  </style>
 </head>
 <body>
   <h1>Política de Privacidad</h1>
